@@ -68,7 +68,7 @@ def test_optimized_sort():
     print(f"Execution Time: {end_time - start_time:.6f} seconds")
 
 if __name__ == "__main__":
-    test_linear_search()
-    # test_binary_search()
+    #test_linear_search()
+    test_binary_search()
     # test_selection_sort()
     # test_optimized_sort()
