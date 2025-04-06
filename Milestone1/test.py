@@ -69,6 +69,6 @@ def test_optimized_sort():
 
 if __name__ == "__main__":
     #test_linear_search()
-    test_binary_search()
-    # test_selection_sort()
+    #test_binary_search()
+    test_selection_sort()
     # test_optimized_sort()
